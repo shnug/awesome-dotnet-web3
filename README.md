@@ -1,5 +1,6 @@
-# awesome-dotnet-web3
-Awesome open-source .NET projects for Web3 &amp; Crypto
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+## Awesome open-source .NET projects for Web3 &amp; Crypto
 
 - https://github.com/NethermindEth/nethermind
 - https://github.com/nethereum
