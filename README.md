@@ -10,3 +10,5 @@
 - https://www.nuget.org/packages/BitGet.Net
 - https://github.com/JKorf/Binance.Net
 - https://github.com/burakoner/OKX.Api
+- https://www.nuget.org/packages/CryptoExchange.Net
+  
