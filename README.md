@@ -7,8 +7,8 @@
 - Nethermind <img alt="Stars" src="https://img.shields.io/github/stars/NethermindEth/nethermind?style=flat-square&labelColor=343b41"/> [![last commit](https://img.shields.io/github/last-commit/NethermindEth/nethermind/master)](https://github.com/NethermindEth/nethermind)
 
 ### Exchange Client 
-- https://github.com/JKorf/BitGet.Net
-- https://github.com/JKorf/Binance.Net
+- BitGet.NET [![NuGet Version](https://img.shields.io/nuget/v/BitGet.Net.svg?style=flat)](https://www.nuget.org/packages/BitGet.Net) [![NuGet](https://img.shields.io/nuget/dt/BitGet.Net)](https://www.nuget.org/packages/BitGet.Net) <img alt="Stars" src="https://img.shields.io/github/stars/JKorf/BitGet.Net?style=flat-square&labelColor=343b41"/> [![last commit](https://img.shields.io/github/last-commit/JKorf/BitGet.Net/main)](https://github.com/JKorf/BitGet.Net)
+- Binance.Net [![NuGet Version](https://img.shields.io/nuget/v/Binance.Net.svg?style=flat)](https://www.nuget.org/packages/Binance.Net) [![NuGet](https://img.shields.io/nuget/dt/Binance.Net)](https://www.nuget.org/packages/Binance.Net) <img alt="Stars" src="https://img.shields.io/github/stars/JKorf/Binance.Net?style=flat-square&labelColor=343b41"/> [![last commit](https://img.shields.io/github/last-commit/JKorf/Binance.Net/master)](https://github.com/JKorf/Binance.Net)
 - KrakenExchange.Net [![NuGet Version](https://img.shields.io/nuget/v/KrakenExchange.Net.svg?style=flat)](https://www.nuget.org/packages/KrakenExchange.Net) [![NuGet](https://img.shields.io/nuget/dt/KrakenExchange.Net)](https://www.nuget.org/packages/KrakenExchange.Net) <img alt="Stars" src="https://img.shields.io/github/stars/JKorf/Kraken.Net?style=flat-square&labelColor=343b41"/> [![last commit](https://img.shields.io/github/last-commit/JKorf/Kraken.Net/master)](https://github.com/JKorf/Kraken.Net)
 - https://github.com/burakoner/OKX.Api
 - https://www.nuget.org/packages/CryptoExchange.Net
